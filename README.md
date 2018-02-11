@@ -1,6 +1,6 @@
 # ARPathFinder
 
-![alt-text](images/App.jpg)
+![App In Use Image](images/App.jpg)
 
 ### Inspiration
 
@@ -11,7 +11,7 @@ After arriving for PennApps, two of our team members found themselves wandering 
 We designed an Android application that routes users to a destination. However, unlike most mapping and navigation applications, after finding directions, users have the option to view their route in AR. This shows the route augmented on the roads using blue dots. This makes navigation simpler, especially for users that have difficulty interpreting maps. Instead, all they have to do is follow the trail of blue dots.
 The mapping and routing portion of the application was built using the Google Maps API. We used ARCore, an augmented reality framework for Android by Google that is currently in developer preview for augmenting the route.
 
-![alt-text-1](images/Directions.jpg)
+![Directions in AR Image](images/Directions.jpg)
 
 ### Technical Challenges
 
@@ -22,7 +22,7 @@ This was an ambitious project that had a long series of roadblocks we had to sur
 It was quite satisfying to see the visuals of our app improve as we learned OpenGL. Our team celebrated every time we managed to achieve another step in rendering the overly. We are also proud of the clean interface and user interface design.
 Bringing it all together, integration was definitely a big milestone for the team as we all came from different backgrounds and only familiarized ourselves with each other a few days ago after meeting online last week. Furthermore considering our different skill sets, we are proud of the level of cohesion our team had.
 
-![alt-text-2](images/Close-Up.jpg)
+![Close Up image of Directions in AR](images/Close-Up.jpg)
 
 ### Lessons Learned
 
@@ -32,4 +32,4 @@ During the course of 36 hours, our team has grown from vague acquaintances to cl
 
 As the Augmented and Virtual Reality scene is very new in modern development, and in a largely experimental phase, our work is far from over. Our journey through this technology has made us realize how lacking this area is of good libraries and easily accessible methods. We would like to continue development on this and improve placement of the route overlay, by combining location information, compass, accelerometer, and information from the camera to have more precise tracking of moment through space and better overlay placement.
 
-![alt text](images/Mobile-Close-up.jpg)
+![Mobile App Close Up](images/Mobile-Close-Up.jpg)
